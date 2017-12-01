@@ -1,0 +1,124 @@
+body {
+font-family: "Roboto", sans-serif !important;
+margin-bottom: 400px;
+
+}
+
+    html {
+  position: relative;
+  min-height: 100%;
+}
+
+@media (min-width: 1200px){
+
+.container {
+    
+    padding-left: 79px;
+}
+
+}
+.navbar.navbar-inverse.navbar-primeira {
+	
+	margin-bottom: 0px;
+}
+
+.navbar.navbar-default.navbar-segunda {
+	height: 100px;
+	background-color: #696969;
+	border:0px;
+	margin-bottom: 0px;
+	font-weight: 300;
+
+}
+
+.navbar.navbar-default.navbar-terceiro {
+
+
+	background-color: #FFD700;
+	border: 0px;
+
+
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    font-weight: bold;
+}
+
+.media.telefone1 {
+
+	    padding: 15px 15px;
+	    font-size:10px;
+      color:#FFD700
+}
+.media.telefone2 {
+
+	    padding: 15px 15px;
+	    font-size: 10px;
+      color:#FFD700;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #FFD700;
+    width: 133px;
+    
+    }
+
+  .media-heading.heading-contato{
+
+    color: #FFD700;
+
+
+  }
+
+   .media-body.body-contato{
+
+    font-size: 13px;
+    color: #000;
+
+   }
+
+   .media-heading.heading-trabalhe{
+
+    color:#FFD700;
+
+   }
+
+    .media-body.body-trabalhe{
+
+      font-size:13px;
+      color: #000;
+
+
+   }
+
+
+
+.row.linha-footer{
+
+    margin-left: 33px;
+    font-size: 12px;
+    margin-top:10px;
+
+
+    }
+
+.texto-footer{
+
+  margin-top:64px;
+  margin-left: 16px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 350px;
+  background-image: url(footer-image.jpg);
+  background-size: 100% 100%;
+  color: #fff
+}
+
